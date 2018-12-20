@@ -30,7 +30,7 @@ Since our data is time series data we need to remember the trends in previous da
 that is exactly what an LSTM is used for. This helps retain important insights from the
 previous time steps and predictions is more accurate than using normal statistics.
 ![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/volumetime.png)
-######And the winner is,
+###### And the winner is,
 ![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/winner.jpg)
 
 
