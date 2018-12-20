@@ -1,3 +1,4 @@
+![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/logo-for-white-header.png)
 # XTRAVAGANZA
 # -Diksha, Aryan and Varan
 
@@ -8,7 +9,7 @@ steps which we followed to implement LSTM model:
 - The training data and testing data are imported using pandas library.
 - Pair plots are plotted for the given training data to find outliers. We observed the
     variation of an entity with the other. It is found that Row no. 42 is the outlier.
-
+![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/pairplots.png)
 
 - Then feature engineering is performed. In this, the data is converted into 1 column data
     by taking average of opening_value, highest_value, lowest_value and settle_value. This
@@ -29,5 +30,7 @@ Why LSTM?
 Since our data is time series data we need to remember the trends in previous data,
 that is exactly what an LSTM is used for. This helps retain important insights from the
 previous time steps and predictions is more accurate than using normal statistics.
+![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/volumetime.png)
+
 
 
