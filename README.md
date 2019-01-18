@@ -26,11 +26,11 @@ steps which we followed to implement LSTM model:
 9. The output is predicted for the given testing data.
 
 Why LSTM?
-
 Since our data is time series data we need to remember the trends in previous data,
 that is exactly what an LSTM is used for. This helps retain important insights from the
 previous time steps and predictions is more accurate than using normal statistics.
 ![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/volumetime.png)
-
+###### And the winner is,
+![alt text](https://github.com/aryankhandal0/YESBankDataHackathon/blob/master/winner.jpg)
 
 
